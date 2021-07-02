@@ -17,7 +17,7 @@ const Contact = () => {
       <Content>
         <h1>Entre em Contato</h1>
         <ul>
-          <li>marcos@ursopolar.com.br</li>
+          <li>sucomanso@gmail.com</li>
           <li>(21) 98917-3282</li>
         </ul>
       </Content>
